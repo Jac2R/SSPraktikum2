@@ -1,0 +1,8 @@
+.idea/
+venv310
+.pytest_cache
+__pycache__/
+
+endpoints/__pycache__
+models/__pycache__
+tests/__pycache__
